@@ -1,0 +1,15 @@
+body{
+	           font-family: Helvetica, 'Hiragino Sans GB', 'Microsoft Yahei', '微软雅黑', Arial, sans-serif;
+	           font-weight:bold;
+}
+#form1
+{
+	width:50%;
+	float:left;
+	margin-top:100px;
+	margin-left:400px;
+
+}
+#but{
+	margin-left:300px;
+}
